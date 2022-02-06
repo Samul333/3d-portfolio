@@ -120,13 +120,11 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Art, Music,{' '}
-          <Link href="https://illust.odoruinu.net/" target="_blank">
-            Drawing
-          </Link>
-          , Playing Guitar,{' '}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
+         Drawing
+       , Playing Guitar,{' '}
+        
             Photography
-          </Link>
+
           , Game Development 
         </Paragraph>
       </Section>
