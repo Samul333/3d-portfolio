@@ -34,6 +34,7 @@ const Works = () => (
           <WorkGridItem
             id="rane"
             title="RANE"
+
             thumbnail={thumbRain}
           >
             RANE is a risk intelligence company that provides access to critical insights and world-class expertise to ensure business continuity

@@ -2,9 +2,6 @@
   "name": "portfolio-homepage",
   "version": "1.0.0",
   "description": "Portfolio Website",
-  "engines": {
-    "node": "16.13.1"
-  },
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
