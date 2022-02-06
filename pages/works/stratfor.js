@@ -23,7 +23,7 @@ import {
           Stratfor <Badge>2020-2022</Badge>
         </Title>
         <Center my={6}>
-          <Image src="/static/images/works/stratfor-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
+          <Image src="/static/images/work/stratfor-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
         </Center>
         <P>
         Stratfor is an American geopolitics publisher and consultancy founded in 1996. Stratfor's business model is to provide individual and enterprise subscriptions to Stratfor Worldview

@@ -36,7 +36,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello I'm a Full-stack developer base in Nepal!
+        Hello I'm a Full-stack developer based in Nepal!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -88,10 +88,10 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           Bio (Overview)
         </Heading>
-        <BioSection>
+        {/* <BioSection>
           <BioYear>1997</BioYear>
           Born in Kathmandu, Nepal 
-        </BioSection>
+        </BioSection> */}
 
         <BioSection>
           <BioYear>2010</BioYear>
@@ -110,7 +110,8 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2020 to present</BioYear>
-          Got my first full time job working as a Software Engineer for <Link target={'_blank'} href='https://www.ranenetwork.com/'>RANE</Link>, working through TekVortex
+          Got my first full time job working as a Software Engineer for Tekvortex, worked with <Link target={'_blank'} href='https://www.ranenetwork.com/'>RANE</Link> to build 
+          multiple web applications.
         </BioSection>
       </Section>
 
