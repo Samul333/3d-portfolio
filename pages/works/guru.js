@@ -23,7 +23,7 @@ import {
           Guru Application <Badge>2021-present</Badge>
         </Title>
         <Center my={6}>
-          <Image src="/images/guru/guru-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
+          <Image src="/static/images/guru/guru-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
         </Center>
         <P>
        Guru application is a web rtc project that is made to connect teachers with students.
@@ -63,12 +63,12 @@ import {
         </List>
 
         <SimpleGrid mt={5} columns={2} gap={2}>
-        <WorkImage src="/images/guru/guru-1.jpg" alt="amembo" />
-        <WorkImage src="/images/guru/guru-2.jpg" alt="amembo" />
+        <WorkImage src="/static/images/guru/guru-1.jpg" alt="amembo" />
+        <WorkImage src="/static/images/guru/guru-2.jpg" alt="amembo" />
 
 
      </SimpleGrid>        
-     <WorkImage src="/images/guru/guru-3.jpg" alt="amembo" />
+     <WorkImage src="/static/images/guru/guru-3.jpg" alt="amembo" />
 
       </Container>
     </Layout>

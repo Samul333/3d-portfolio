@@ -23,7 +23,7 @@ import {
           NotifyMe <Badge>2019</Badge>
         </Title>
         <Center my={6}>
-          <Image src="/images/notify/notify-logo.webp" boxSize={'200px'} objectFit={'contain'} alt="icon" />
+          <Image src="/static/images/notify/notify-logo.webp" boxSize={'200px'} objectFit={'contain'} alt="icon" />
         </Center>
         <P>
        NotifyMe is a college project made to send notifications to students.
@@ -57,8 +57,8 @@ import {
         </List>
 
         <SimpleGrid mt={3} columns={2} gap={2}>
-        <WorkImage src="/images/notify/notify-1.webp" alt="amembo" />
-        <WorkImage src="/images/notify/notify-2.webp" alt="amembo" />
+        <WorkImage src="/static/images/notify/notify-1.webp" alt="amembo" />
+        <WorkImage src="/static/images/notify/notify-2.webp" alt="amembo" />
      </SimpleGrid>
  
 

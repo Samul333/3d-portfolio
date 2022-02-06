@@ -5,13 +5,13 @@ import { WorkGridItem } from '../components/grid-item'
 
 
 
-import thumbGuruRTC from '../public/images/guru-project.jpg';
+const thumbGuruRTC = '/static/images/work/guru-project.jpg';
 
-import thumbRain from '../public/images/works/rane.png';
-import thumbStrat from '../public/images/works/stratfor.jpg';
-import thumbNotify from '../public/images/works/notifyMe.jpg';
-import thumbExpense from '../public/images/works/expense.jpg';
-import thumbGuruNode from '../public/images/works/guru-node.jpg';
+const  thumbRain = '/static/images/work/rane.png';
+const  thumbStrat = '/static/images/work/stratfor.jpg';
+const  thumbNotify = '/static/images/work/notifyMe.jpg';
+const  thumbExpense = '/static/images/work/expense.jpg';
+const  thumbGuruNode = '/static/images/work/guru-node.jpg';
 
 
 

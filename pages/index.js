@@ -19,10 +19,14 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 import { IoLogoInstagram, IoLogoGithub, IoLogoFacebook } from 'react-icons/io5'
-import thumbYouTube from '../public/images/guru-project.jpg'
-import thumbInkdrop from '../public/images/mario.jpg'
 
+// import thumbInkdrop from '../public/images/mario.jpg'
+const thumbYouTube = '/static/images/guru-project.jpg'
+const thumbInkdrop = '/static/images/mario.jpg'
 const Home = () => (
+
+
+
   <Layout>
     <Container>
       <Box
@@ -55,7 +59,7 @@ const Home = () => (
             maxWidth="100px"
             display="inline-block"
             borderRadius="full"
-            src={'/images/samul.jpg'}
+            src={'/static/images/samul.jpg'}
             alt="Profile image"
           />
         </Box>

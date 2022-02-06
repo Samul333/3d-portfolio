@@ -23,7 +23,7 @@ import {
           Stratfor <Badge>2020-2022</Badge>
         </Title>
         <Center my={6}>
-          <Image src="/images/works/stratfor-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
+          <Image src="/static/images/works/stratfor-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
         </Center>
         <P>
         Stratfor is an American geopolitics publisher and consultancy founded in 1996. Stratfor's business model is to provide individual and enterprise subscriptions to Stratfor Worldview
@@ -57,10 +57,10 @@ import {
         </List>
 
         <SimpleGrid mt={3} columns={2} gap={2}>
-        <WorkImage src="/images/stratfor/stratfor-1.jpg" alt="amembo" />
-        <WorkImage src="/images/stratfor/stratfor-2.jpg" alt="amembo" />
+        <WorkImage src="/static/images/stratfor/stratfor-1.jpg" alt="amembo" />
+        <WorkImage src="/static/images/stratfor/stratfor-2.jpg" alt="amembo" />
      </SimpleGrid>
-     <WorkImage src="/images/stratfor/stratfor-3.jpg" alt="amembo" />
+     <WorkImage src="/static/images/stratfor/stratfor-3.jpg" alt="amembo" />
 
       </Container>
     </Layout>

@@ -23,7 +23,7 @@ import {
           RANE <Badge>2020-2022</Badge>
         </Title>
         <Center my={6}>
-          <Image src="/images/works/rane-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
+          <Image src="/static/images/work/rane-logo.png" boxSize={'200px'} objectFit={'contain'} alt="icon" />
         </Center>
         <P>
         RANE is a risk intelligence company that provides access to critical insights, analysis, and support to ensure business continuity and resiliency for our members.
@@ -56,10 +56,10 @@ import {
           </ListItem>
         </List>
         <SimpleGrid columns={2} gap={2}>
-        <WorkImage src="/images/Rane/threat-1.png" alt="amembo" />
-        <WorkImage src="/images/Rane/threat-2png.png" alt="amembo" />
+        <WorkImage src="/static/images/Rane/threat-1.png" alt="amembo" />
+        <WorkImage src="/static/images/Rane/threat-2png.png" alt="amembo" />
      </SimpleGrid>
-     <WorkImage src="/images/Rane/threat-3.png" alt="amembo" />
+     <WorkImage src="/static/images/Rane/threat-3.png" alt="amembo" />
 
       </Container>
     </Layout>
